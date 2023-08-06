@@ -1,6 +1,14 @@
-# Chat Application
+<h1 align="center">Live Chat Application </h1>
+
 
 This is a full-stack chat application built using React, Vite, Express, and ChatEngine. The application allows users to engage in real-time chat with each other.
+#### Here is a little conversation between Zack and Postman.
+
+#### Zack Side
+![Chats](Msgs1.png)
+
+#### Postman Side
+![Chats](Msgs2.png)
 
 ## Frontend
 
